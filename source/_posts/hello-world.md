@@ -3,3 +3,4 @@ title: 欢迎来到我的博客
 ---
 
 你好
+https://search.ahnu.cf/
